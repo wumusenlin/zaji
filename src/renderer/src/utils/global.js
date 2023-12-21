@@ -13,5 +13,10 @@ export const navbarInfo = [
     name: '设置',
     icon: '🔧',
     path: 'setting',
-  }
+  },
+  {
+    name: '版本',
+    icon: '💫',
+    path: 'version',
+  },
 ]

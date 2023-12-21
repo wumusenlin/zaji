@@ -1,5 +1,5 @@
 import Versions from './components/Versions'
-import BasicLayout from './components/layout/BasicLayout'
+import BasicLayout from './pages/layout/BasicLayout'
 import { navbarInfo } from './utils/global'
 import { useState } from 'react'
 
@@ -25,6 +25,12 @@ function App() {
       }
     </div>
     <div id="container">
+      <header id="header">
+        <div>💌💌💌</div>
+        <div>
+          <button>新增</button>
+        </div>
+      </header>
       <BasicLayout router={router} />
     </div>
   </div>
