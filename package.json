@@ -20,7 +20,7 @@
     "@electron-toolkit/preload": "^2.0.0",
     "@electron-toolkit/utils": "^1.0.2",
     "electron-updater": "^5.3.0",
-    "wumu-edit-table": "^0.2.6"
+    "wumu-edit-table": "^0.3.2"
   },
   "devDependencies": {
     "@electron/notarize": "^1.2.3",
